@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Sunrise Serenity.</p>
-    <p>Snapshot taken at the mid of nowhere in USA - Sept. 2023.</p>
+    <p>Snapshot taken in the middle of nowhere in USA -Sep. 2023.</p>
 
 news: true # includes a list of news items
 latest_posts: false
