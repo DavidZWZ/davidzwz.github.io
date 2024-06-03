@@ -29,7 +29,7 @@
       "url": "https://www.uic.edu/",
       "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "2022-08",
+      "startDate": "2022",
       "endDate": ""
     },
     {
@@ -38,8 +38,8 @@
       "url": "https://www.gla.ac.uk/",
       "area": "Electronics and Electrical Engineering",
       "studyType": "Bachelor",
-      "startDate": "2018-09",
-      "endDate": "2022-06"
+      "startDate": "2018",
+      "endDate": "2022"
     },
     {
       "institution": "University of Electronic Science and Technology of China",
@@ -47,8 +47,8 @@
       "url": "https://en.uestc.edu.cn/",
       "area": "Communication Engineering",
       "studyType": "Bachelor",
-      "startDate": "2018-09",
-      "endDate": "2022-06"
+      "startDate": "2018",
+      "endDate": "2022"
     }
   ],
   "languages": [
