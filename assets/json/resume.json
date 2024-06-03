@@ -24,7 +24,7 @@
   },
   "education": [
     {
-      "institution": "University of Illinois Chicago, USA",
+      "institution": "University of Illinois Chicago",
       "location": "Chicago, USA",
       "url": "https://www.uic.edu/",
       "area": "Computer Science",
@@ -33,8 +33,8 @@
       "endDate": ""
     },
     {
-      "institution": "University of Glasgow, UK",
-      "location": "Glasgow, Scotland, UK",
+      "institution": "University of Glasgow",
+      "location": "Glasgow, UK",
       "url": "https://www.gla.ac.uk/",
       "area": "Electronics and Electrical Engineering",
       "studyType": "Bachelor",
@@ -42,7 +42,7 @@
       "endDate": "2022-06"
     },
     {
-      "institution": "University of Electronic Science and Technology of China, China",
+      "institution": "University of Electronic Science and Technology of China",
       "location": "Chengdu, China",
       "url": "https://en.uestc.edu.cn/",
       "area": "Communication Engineering",
