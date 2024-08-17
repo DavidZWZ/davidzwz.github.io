@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada::tada::tada: OpenAI Researcher Access Program is Awarded.
+:tada::tada::tada: OpenAI researcher access program is awarded.
