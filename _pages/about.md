@@ -9,8 +9,8 @@ profile:
   image: 2023_Oct.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Sunrise Serenity :heart:</p>
-    <p>Snapshot in the middle of nowhere in USA - Sep. 2023</p>
+    <p>Sunrise Serenity.</p>
+    <p>Snapshot in the middle of nowhere in USA - Sep. 2023.</p>
 
 news: true # includes a list of news items
 latest_posts: false
