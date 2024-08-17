@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:fire: :fire: :fire: Lauched my personal website. :sparkles: :smile:
+Lauched my personal website. :sparkles: :smile:
