@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:desktop_computer::computer::desktop_computer: Join Meta as a Research Scientist Intern starting from this summer. See you in Bellevue! :evergreen_tree::camping::national_park:
+:desktop_computer::computer::desktop_computer: Join Meta as a Research Scientist Intern starting from this summer :camping:. See you in Bellevue! :evergreen_tree:

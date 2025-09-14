@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:desktop_computer::computer::desktop_computer: Join Amazon as an Applied Scientist Intern starting from this winter. See you in Seattle! :snowflake:
+:desktop_computer::computer::desktop_computer: Join Amazon as an Applied Scientist Intern starting from this winter :snowflake:. See you in Seattle! 
