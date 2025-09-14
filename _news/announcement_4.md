@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:desktop_computer::computer::desktop_computer: Join Amazon as an Applied Scientist Intern starting from this winter :snowflake:. See you in Seattle! 
+<span style="color:rgb(227, 142, 14)"><i class="fab fa-amazon"></i> Amazon</span> Join Amazon as an Applied Scientist Intern starting from this winter :snowflake:. See you in Seattle! 
