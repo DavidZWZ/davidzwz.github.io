@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<span style="color: #0866FF"><i class="fab fa-meta"></i> Meta</span> Give a talk on "Towards Efficient and Scalable Graph Recommendation" at Meta Modern Recommendation System Team (MRS)! :open_hands:
+<span style="color: #0866FF"><i class="fab fa-meta"></i> Meta</span> Give a talk on "Towards Efficient and Scalable Graph Recommendation" in Modern Recommendation System Team (MRS) at Meta! :open_hands:
